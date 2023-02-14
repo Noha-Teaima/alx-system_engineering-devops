@@ -1,1 +1,2 @@
-echo $quote | tr A-Za-z N-ZA-Mn-za-m\n
+#!/bin/bash
+echo tr A-Za-z N-ZA-Mn-za-m
